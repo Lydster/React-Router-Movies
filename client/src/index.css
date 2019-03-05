@@ -70,3 +70,11 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+.home-button:hover {
+  background-color: hotpink
+}
+
+.movie-list {
+  text-decoration: none;
+}
